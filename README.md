@@ -71,13 +71,13 @@ Toggle, Slider, Dropdown, Multi Dropdown, Keybind, Color Picker, Input, Button, 
 Copy `SCUIsource.lua` into your executor's workspace folder and load it:
 
 ```lua
-local SCUI = loadstring(readfile("SCUIsource.lua"))()
+local SCUI = loadstring(readfile("https://raw.githubusercontent.com/VoxlarWIP/SureCool-UI-bs-name-lol-/refs/heads/main/SCUIsource.lua"))()
 ```
 
 Or host it on GitHub and load it from the raw URL:
 
 ```lua
-local SCUI = loadstring(game:HttpGet("https://raw.githubusercontent.com/YOUR_USERNAME/SCUI/main/SCUIsource.lua"))()
+local SCUI = loadstring(game:HttpGet("https://raw.githubusercontent.com/VoxlarWIP/SureCool-UI-bs-name-lol-/refs/heads/main/SCUIsource.lua"))()
 ```
 
 **Requirements**
