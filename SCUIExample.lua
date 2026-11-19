@@ -3,7 +3,7 @@
 -- Demo script for SCUIsource.lua (the "sportsclub" hub lol).
 --
 -- Layout of the demo:
---   Fishing   -> exact replica of the reference screenshot
+--   fishing   -> whatever lol shi lolllll
 --   Movement  -> sliders, toggles, keybinds, inputs
 --   Visuals   -> color pickers, multi dropdown, progress bar
 --   Shop      -> empty states + loading indicator
@@ -16,7 +16,7 @@
 -- ============================================================================
 
 -- Load the library. Pick ONE of these:
-local SCUI = loadstring(game:HttpGet'https://pastefy.app/5GB6TEkY/raw')()
+local SCUI = loadstring(game:HttpGet'https://raw.githubusercontent.com/VoxlarWIP/SureCool-UI-bs-name-lol-/refs/heads/main/SCUIsource.lua')()
 
 -- Plain table that mirrors every setting. Read from it inside your own loops.
 local Config = {
