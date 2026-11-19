@@ -1,6 +1,6 @@
 -- ============================================================================
 -- SCUIExample.lua
--- Demo script for SCUIsource.lua (the "sportsclub" fishing window replica).
+-- Demo script for SCUIsource.lua (the "sportsclub" hub lol).
 --
 -- Layout of the demo:
 --   Fishing   -> exact replica of the reference screenshot
