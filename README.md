@@ -471,9 +471,3 @@ SCUI/
 SCUI was tested headlessly against a mocked Roblox API (components, search, dialogs, minimize, drag, resize and config) and needs visual tuning in the real engine. If something looks off, open an issue with a screenshot and your console output.
 
 SCUI is a UI library. Using scripts in games may violate a game's rules or Roblox's Terms of Use, and you are responsible for how you use it.
-
----
-
-## License
-
-MIT. See [LICENSE](LICENSE).
